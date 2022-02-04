@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tom Fry
 - 👀 I’m interested in: technology that can help protect, maintain or repair the world around us! 
 - 🌱 I’m currently learning: Javascript and React
-- 💞️ I’m looking to collaborate on: aything!
+- 💞️ I’m looking to collaborate on: anything!
 - 📫 How to reach me: Drop me an email on tom.mfry@gmail.com and I'll be sure to get beack to you!
