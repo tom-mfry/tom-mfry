@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in: technology that can help protect, maintain or repair the world around us! 
 
-- 🌱 I’m currently learning: NodeJS w/ ExpressJS & MongoDB (I'm keen to dive into React next!)
+- 🌱 I’m currently learning: NodeJS w/ ExpressJS & MongoDB (I'm desperate to dive into React next!)
 
 - 💞️ I’m looking to collaborate on: anything that cathces my eye!
 
